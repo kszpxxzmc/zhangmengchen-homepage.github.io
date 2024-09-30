@@ -36,7 +36,7 @@ My research interest includes 3D generation and pose estimation. I have publishe
 
 **Mengchen Zhang**, Tong Wu, Tai Wang, Tengfei Wang, Ziwei Liu, Dahua Lin 
 
-[**[Paper]**]()&nbsp;
+[**[Paper]**](https://arxiv.org/abs/2409.18261)&nbsp;
 [**[Video]**](https://www.youtube.com/watch?v=BKyw51bUhZs)&nbsp;
 [**[Code]**](https://github.com/3DTopia/Omni6D/)&nbsp;
 [**[Data]**](https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D/)
